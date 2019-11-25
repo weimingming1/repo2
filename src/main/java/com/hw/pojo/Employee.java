@@ -1,6 +1,6 @@
 package com.hw.pojo;
 
-public class Teather {
+public class Employee {
 
     private String name;
 }
